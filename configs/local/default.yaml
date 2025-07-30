@@ -1,0 +1,6 @@
+
+# @package paths
+
+data_dir: /mnt/d/qicheng/qc1_classify
+
+log_dir: ./logs/
